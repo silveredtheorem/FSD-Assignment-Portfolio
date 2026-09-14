@@ -1,4 +1,4 @@
-# sharan deepak — portfolio (react + express)
+# sharan deepak portfolio (react + express)
 
 RECORDING (assignment 2) - https://drive.google.com/file/d/1I8D5X53u-uCOD_I-wbh65IOr_wFzH511/view?usp=sharing
 
