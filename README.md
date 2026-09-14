@@ -2,6 +2,8 @@
 
 RECORDING (assignment 2) - https://drive.google.com/file/d/1I8D5X53u-uCOD_I-wbh65IOr_wFzH511/view?usp=sharing
 
+Assignment 3 deliverables - https://drive.google.com/drive/folders/1nMHhtz0cgr_MryWaHtMMFgPFnhBVkbgZ?usp=drive_link
+
 Assignment 3 for CS1303 (Full Stack Development) — the React frontend from
 assignment 2 now talks to a real Node.js/Express backend in [`/server`](server).
 Navbar, routing, theme toggle, and page structure are unchanged; what changed
