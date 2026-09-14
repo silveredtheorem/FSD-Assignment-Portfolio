@@ -141,9 +141,15 @@ error-handling middleware in [`server/middleware`](server/middleware) mean
 no route ever falls through to Express's default HTML error page, and no
 thrown error crashes the process.
 
-A `curl` command covering every case above (B1–B7, including one failure
-case per validated endpoint) is reproduced in this section verbatim — there's
-no separate Postman file to keep in sync.
+Every command above is also collected in one runnable script,
+[`server/curl-examples.sh`](server/curl-examples.sh) — the actual curl-commands
+deliverable for B1–B7 (including one failure case per validated endpoint).
+Run it with the server up:
+
+```bash
+cd server && npm run dev &
+./curl-examples.sh
+```
 
 ---
 
