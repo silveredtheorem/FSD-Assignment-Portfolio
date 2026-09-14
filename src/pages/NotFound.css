@@ -1,0 +1,32 @@
+.not-found {
+  min-height: calc(100vh - var(--nav-height));
+  display: flex;
+  align-items: center;
+}
+
+.not-found__inner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--space-md);
+}
+
+.not-found__code {
+  font-family: var(--font-mono);
+  font-size: 1rem;
+  color: var(--color-primary);
+  letter-spacing: 0.1em;
+}
+
+.not-found__heading {
+  font-size: 2.25rem;
+  font-family: var(--font-serif);
+  color: var(--color-text-strong);
+}
+
+.not-found__text {
+  color: var(--color-text-muted);
+  max-width: 420px;
+  line-height: 1.7;
+  margin-bottom: var(--space-sm);
+}
